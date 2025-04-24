@@ -11,20 +11,13 @@ userName = "ethan"
 password = "ethan"
 
 
-
-
-
 userName = input (" please enter your name ")
 
 if userName == password:
     print (" your in ")
+    print (" can we go to the park soon? ")
+    print (" at 1:00 pm")
+    print (" and get lunch after we go to the park? ")
 
 else:
     print (" get lost!!!!")
-
-
-print (" can we go to the park soon? ")
-
-print (" at 1:00 pm")
-
-print (" and get lunch after we go to the park? ")

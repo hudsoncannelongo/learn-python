@@ -8,7 +8,7 @@
 
 userName = "ethan"
 
-password = "ethan"
+password = " Koda is smart!!!"
 
 
 userName = input (" please enter your name ")

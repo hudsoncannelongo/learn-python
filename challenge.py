@@ -13,7 +13,7 @@ userNameEntered = input (" please enter your username ")
 passwordEntered = input (" please enter your password ")
 
 
-if userName == userNameEntered:
+if userName == userNameEntered and password == passwordEntered:
 
     print (" your in ")
     print (" can we go to the park soon? ")

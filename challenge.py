@@ -7,13 +7,14 @@
 
 
 userName = "ethan"
-
 password = "ethan"
 
+userNameEntered = input (" please enter your username ")
+passwordEntered = input (" please enter your password ")
 
-userName = input (" please enter your name ")
 
-if userName == password:
+if userName == userNameEntered:
+
     print (" your in ")
     print (" can we go to the park soon? ")
     print (" at 1:00 pm")

@@ -6,17 +6,18 @@
 #6. print your favorite movie
 
 userName = "ethan"
-password = " Koda is smart!!!"
+password = "koda"
 
-userNameEntered = input (" please enter your username ")
-passwordEntered = input (" please enter your password ")
+userNameEntered = input ("please enter your username")
+passwordEntered = input ("please enter your password")
 
 if userName == userNameEntered and password == passwordEntered:
+    print ("your in")
+    print ("can we go to the park soon?")
+    print ("at 1:00 pm")
+    print ("and get lunch after we go to the park?")
+    print ("Ethan says...... Yes")
 
-    print (" your in ")
-    print (" can we go to the park soon? ")
-    print (" at 1:00 pm")
-    print (" and get lunch after we go to the park? ")
 
 else:
     print (" get lost!!!!")

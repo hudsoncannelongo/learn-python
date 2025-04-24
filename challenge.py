@@ -20,6 +20,6 @@ if userName == userNameEntered and password == passwordEntered:
 
 else:
     print (" get lost!!!!")
-    print (" your divice will be destored!!! ")
+    print (" your divice will be destroyed!!! ")
 
 print("Don't forget: " + userNameEntered + " is better than Hudson!")

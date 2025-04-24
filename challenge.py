@@ -5,13 +5,11 @@
 #5. print your favorite animal
 #6. print your favorite movie
 
-
 userName = "ethan"
 password = " Koda is smart!!!"
 
 userNameEntered = input (" please enter your username ")
 passwordEntered = input (" please enter your password ")
-
 
 if userName == userNameEntered and password == passwordEntered:
 
@@ -22,5 +20,6 @@ if userName == userNameEntered and password == passwordEntered:
 
 else:
     print (" get lost!!!!")
-
     print (" your divice will be destored!!! ")
+
+print("Don't forget: " + userNameEntered + " is better than Hudson!")

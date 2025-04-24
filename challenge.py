@@ -22,4 +22,4 @@ else:
     print (" get lost!!!!")
     print (" your divice will be destored!!! ")
 
-print("Don't forget: " + userNameEntered + " is better than Hudson!")
+print("DON'T WORRY: " + userNameEntered + " IS BETTER THAN HUDSON!")

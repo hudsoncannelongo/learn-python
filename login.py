@@ -6,9 +6,7 @@
 # 6. But if it is not correct, print access denine
 
 username = "hudson" 
-password = "jesus" 
-
-
+password = "Jesus" 
 
 print ( " hello " + username + " what is your password'? " )
 

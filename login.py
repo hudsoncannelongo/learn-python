@@ -13,7 +13,7 @@ print ( " hello " + username + " what is your password'? " )
 passwordatempt = input (" please enter your password " )
 
 
-if passwordatempt >= password:
+if passwordatempt == password:
     print (" acess granted :) ")
 
 else: 

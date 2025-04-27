@@ -21,4 +21,4 @@ elif operator == "*":
 elif operator == "/":
     print ( int ( numberOne) / int ( numberTwo))
 else:
-    print ( " maybe you didnt remeber what I said but you must enter a valide operator!!! ")
+    print ( " maybe you didn't remember what I said but you must enter a valid operator!!! ")

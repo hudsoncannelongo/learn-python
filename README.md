@@ -1,4 +1,4 @@
-# 🧠 How to Turn Pseudocode into Python Code
+# 🧠 Hudson is Learning Python! 🐍
 
 ## Step 1: Think about what you want your code to do and break it down into smaller steps in simple english.
 
@@ -42,18 +42,17 @@ if username == enteredUsername:
 
 See if it does what you wanted.
 
-> If it doesn't, fix it. (That’s called **debugging**.)
+> If it doesn't, fix it. (That’s called **debugging**.) You can set a breakpoint and step through your code slowly.
+
+> If it works, **congratulations**!
+
+> You just turned your pseudocode into real code! WOW!
 
 ---
 
-## 🔥 Remember:
+## 🔥 Remember Hudson:
 
 - Each step of pseudocode usually becomes **1–2 lines** of real code.
 - Use `input()` when you need the user to **type** something.
 - Use `print()` when you want to **show** something back to the user.
-
----
-
-## 💬 Extra Tip:
-
-You can write your **pseudocode as comments** (`#`) right above your real code to stay organized!
+- Use `if` statements when you want to **check** something.

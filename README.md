@@ -5,9 +5,11 @@
 > (This is called **pseudocode** — it just explains the steps, not real code yet.)
 
 **Example pseudocode:**
+
 ```python
 # Ask the user for their name`
 # Say hello to the user`
+# Check if the entered username matches the saved username
 ```
 
 ---
@@ -26,6 +28,12 @@ name = input("What is your name? ")
 
 ```python
 print("Hello, " + name + "!")
+```
+
+- **`#Check if the entered username matches the saved username`** -> In python you use the `if` statement!
+
+```python
+if username == enteredUsername:
 ```
 
 ---

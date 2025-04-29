@@ -5,9 +5,10 @@
 > (This is called **pseudocode** — it just explains the steps, not real code yet.)
 
 **Example pseudocode:**
-
-- Ask the user for their name
-- Say hello to the user
+```python
+# Ask the user for their name`
+# Say hello to the user`
+```
 
 ---
 
@@ -15,13 +16,13 @@
 
 **Example translations:**
 
-- **"Ask the user for their name"** → In Python, you use `input()` to get typing from a user.
+- **`# Ask the user for their name`** → In Python, you use `input()` to get typing from a user.
 
 ```python
 name = input("What is your name? ")
 ```
 
-- **"Say hello to the user"** → In Python, you use `print()` to show something on the screen.
+- **`# Say hello to the user`** → In Python, you use `print()` to show something on the screen.
 
 ```python
 print("Hello, " + name + "!")

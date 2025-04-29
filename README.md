@@ -1,6 +1,6 @@
 # 🧠 How to Turn Pseudocode into Python Code
 
-## Step 1: Think about what you want your code to do and break it down into smaller steps.
+## Step 1: Think about what you want your code to do and break it down into smaller steps in simple english.
 
 > (This is called **pseudocode** — it just explains the steps, not real code yet.)
 

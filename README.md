@@ -56,3 +56,4 @@ See if it does what you wanted.
 - Use `input()` when you need the user to **type** something.
 - Use `print()` when you want to **show** something back to the user.
 - Use `if` statements when you want to **check** something.
+- Use `while` when you want to keep running the same code over and over until you have what you want!

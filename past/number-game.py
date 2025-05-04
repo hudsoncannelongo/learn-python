@@ -18,30 +18,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 from termcolor import colored
 
 import os
@@ -49,7 +25,7 @@ import random
 
 os.system ("clear")
 
-secret_number = random.randint( 1, 10)
+secret_number = random.randint(1,10)
 
 guess =  int ( input (" whats you guess for the number game? "))
 

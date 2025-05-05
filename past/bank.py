@@ -4,7 +4,7 @@ import time
 import termcolor
 
 
-def startBank ():
+def startBank () :
     os.system("clear")
 
     balance = int (input ( termcolor.colored ("How much cash are we tossin' into the digital piggy bank today? 🐷✨: ", "blue") ) )

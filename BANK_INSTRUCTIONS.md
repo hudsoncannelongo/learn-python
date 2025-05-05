@@ -1,19 +1,19 @@
 # 🏦 Simple Banking App — Step-by-Step Instructions
 
-- [ ] **1. Start with a balance variable**  
-  - Create a variable called `balance` and set it to something like `100`, which means $100.
+- [x] **1. Start with a balance variable**  
+  - Create a variable called `balance` and set it to something like `100.0`, which means $100.
 
-- [ ] **2. Show a welcome message**  
+- [x] **2. Show a welcome message**  
   - Print a friendly message that welcomes the user and tells them their starting balance.
 
 ---
 
-- [ ] **3. Start a loop that keeps running**  
+- [x] **3. Start a loop that keeps running**  
   - Use `while True:` to start a loop that will run **forever** unless we use `break` to stop it.
 
 ---
 
-- [ ] **4. Show the user a menu to pick an option on what they want to do**  
+- [x] **4. Show the user a menu to pick an option on what they want to do**  
   Use `print()` to show these options:  
   - `c` - Check balance  
   - `d` - Deposit money  

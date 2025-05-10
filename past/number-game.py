@@ -25,7 +25,8 @@ import random
 
 os.system ("clear")
 
-secret_number = random.randint(1,10)
+num1 = random.randint(1,10)
+num2 = random.randint(1,10)
 
 guess =  int ( input (" whats you guess for the number game? "))
 

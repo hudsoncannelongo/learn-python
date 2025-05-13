@@ -28,7 +28,7 @@ os.system ('clear')
 
 user_name = input (" Creat a username: ")
 
-enter_password = input (" Creat a Password: ")
+password = input (" Creat a Password: ")
 
 hint_password = input("Create a password hint: ")
 
@@ -39,12 +39,12 @@ os.system('clear')
 enterd_username = input (" please enter your username: ")
 
 if user_name == enterd_username:
-    password = input (" please enter your password: ")
-    if enter_password == password:
+    entered_password = input (" please enter your password: ")
+    if entered_password == password:
         os.system('clear') 
         print (" welcome " + user_name)
     else: 
-        wants_hint_password = input (" would you like to see you hint for password? ")
+        wants_hint_password = input (" would you like to see you hint for password? (yes or no)")
         if "yes" == wants_hint_password:
            print (hint_password)
         else:

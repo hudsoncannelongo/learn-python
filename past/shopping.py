@@ -1,5 +1,7 @@
 import os
+
 import time
+
 os.system("clear")
 
 print ("Welcome to Huddies black market")
@@ -35,8 +37,7 @@ def remove_item():
     else:
         print("That item is not in your cart dummy!")
 
-    
-while True:
+    while True:
     print ("Type a to add")
     print ("Type e to exit")
     print ("Type f to show the first item")
@@ -60,6 +61,5 @@ while True:
 
     time.sleep(3)
     os.system("clear")
-
 
 print("Gooooooood bye")       

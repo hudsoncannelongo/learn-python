@@ -70,15 +70,14 @@ Key concept: accessing list elements
 ## 🖥️ User Commands
 
 | Command  | Description                            |
-| -------- | -------------------------------------- | --- |
+|----------|----------------------------------------|
 | buy      | Add an item from inventory to the cart |
-| cart     | View the current cart                  |     |
+| cart     | View the current cart                  |
 | remove   | Remove a specific item from the cart   |
 | clear    | Remove all items from the cart         |
-| checkout |
+| checkout | Finalize the purchase and pay          |
 | exit     | Leave the app                          |
 
----
 
 ## Do what the user wants
 

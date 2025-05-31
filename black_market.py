@@ -82,7 +82,7 @@ def self_destruct():
         pyttsx3.speak(step)
         time.sleep(1.2)
     print(
-        termcolor.colored("💥 SYSTEM SELF-DESTRUCT COMPLETE 💥", "red", attrs=["bold"])
+        termcolor.colored("💥SYSTEM SELF-DESTRUCT COMPLETE💥", "red", attrs=["bold"])
     )
     time.sleep(2)
     print(termcolor.colored("Goodbye.", "cyan"))

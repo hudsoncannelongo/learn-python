@@ -6,7 +6,7 @@ import pyttsx3
 os.system("clear")
 inventory = ["Cocaine", "Cigars", "Fentanyl", "Crystal Meth"]
 cart = []
-police_here = False
+police_here = True
 
 
 def display_cart():

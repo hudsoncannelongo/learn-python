@@ -6,7 +6,7 @@ import pyttsx3
 os.system("clear")
 inventory = ["Cocaine", "Cigars", "Fentanyl", "Crystal Meth"]
 cart = []
-police_here = False
+police_here = True
 
 
 def display_cart():
@@ -82,7 +82,7 @@ def self_destruct():
         pyttsx3.speak(step)
         time.sleep(1.2)
     print(
-        termcolor.colored("💥 SYSTEM SELF-DESTRUCT COMPLETE 💥", "red", attrs=["bold"])
+        termcolor.colored("💥SYSTEM SELF-DESTRUCT COMPLETE💥", "red", attrs=["bold"])
     )
     time.sleep(2)
     print(termcolor.colored("Goodbye.", "cyan"))
